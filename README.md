@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![app_img](https://github.com/gtokmak/vue-harcama-takip/blob/main/img.png?raw=true)
+
