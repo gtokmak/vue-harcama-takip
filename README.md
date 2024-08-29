@@ -1,6 +1,6 @@
 # vue-harcama-takip
 
-This template should help get you started developing with Vue 3 in Vite.
+Bu uygulama vue'nun temellerini öğrenmek için yerel depo üzerinde harçamaları takip etmek için geliştirilmiştir.
 
 ## Recommended IDE Setup
 
